@@ -1,5 +1,7 @@
 fastapi
 uvicorn
 scikit-learn
+opencv-python-headless
+python-multipart
 xgboost
 matplotlib
